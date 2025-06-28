@@ -1,0 +1,86 @@
+{
+    "metal": 200,
+    "fuel": 100,
+    "ships": {
+        "light": 10,
+        "medium": 2,
+        "heavy": 1
+    },
+    "captured_planets": [
+        "Терра",
+        "Арктур-9",
+        "Игнис",
+        "Норга",
+        "Элия",
+        "Вортигон",
+        "Селестия",
+        "Кризис",
+        "Этерия"
+    ],
+    "technologies": {
+        "medium_ship": true,
+        "fuel_efficiency": true,
+        "laser_weapon": true,
+        "quantum_core": true,
+        "bio_reactor": true,
+        "stealth_tech": true,
+        "advanced_engine": true
+    },
+    "buildings": {
+        "Терра": {
+            "Mine": 11,
+            "Refinery": 7,
+            "Shipyard": 5,
+            "Lab": 5
+        },
+        "Арктур-9": {
+            "Mine": 1,
+            "Refinery": 1,
+            "Shipyard": 1,
+            "Lab": 1
+        },
+        "Игнис": {
+            "Mine": 1,
+            "Refinery": 1,
+            "Shipyard": 1,
+            "Lab": 1
+        },
+        "Норга": {
+            "Mine": 1,
+            "Refinery": 1,
+            "Shipyard": 1,
+            "Lab": 1
+        },
+        "Элия": {
+            "Mine": 1,
+            "Refinery": 1,
+            "Shipyard": 1,
+            "Lab": 1
+        },
+        "Вортигон": {
+            "Mine": 1,
+            "Refinery": 1,
+            "Shipyard": 1,
+            "Lab": 1
+        },
+        "Селестия": {
+            "Mine": 1,
+            "Refinery": 1,
+            "Shipyard": 1,
+            "Lab": 1
+        },
+        "Кризис": {
+            "Mine": 1,
+            "Refinery": 1,
+            "Shipyard": 1,
+            "Lab": 1
+        },
+        "Этерия": {
+            "Mine": 1,
+            "Refinery": 1,
+            "Shipyard": 1,
+            "Lab": 1
+        }
+    },
+    "boss_defeated": false
+}

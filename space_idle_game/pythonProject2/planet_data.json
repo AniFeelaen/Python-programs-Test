@@ -1,0 +1,124 @@
+{
+  "planets": [
+    {
+      "name": "Терра",
+      "type": "Землеподобная",
+      "base_metal_gain": 2,
+      "base_fuel_gain": 1,
+      "tech_unlock": "medium_ship",
+      "defense": {
+        "light": 5,
+        "medium": 0,
+        "heavy": 0
+      }
+    },
+    {
+      "name": "Арктур-9",
+      "type": "Ледяная",
+      "base_metal_gain": 1.5,
+      "base_fuel_gain": 3,
+      "tech_unlock": "fuel_efficiency",
+      "defense": {
+        "light": 3,
+        "medium": 2,
+        "heavy": 1
+      }
+    },
+    {
+      "name": "Игнис",
+      "type": "Огненная",
+      "base_metal_gain": 3,
+      "base_fuel_gain": 0.5,
+      "tech_unlock": "laser_weapon",
+      "defense": {
+        "light": 2,
+        "medium": 3,
+        "heavy": 2
+      }
+    },
+    {
+      "name": "Норга",
+      "type": "Дикий мир",
+      "base_metal_gain": 2,
+      "base_fuel_gain": 2,
+      "tech_unlock": null,
+      "defense": {
+        "light": 4,
+        "medium": 1,
+        "heavy": 1
+      }
+    },
+    {
+      "name": "Элия",
+      "type": "Газовый гигант",
+      "base_metal_gain": 1,
+      "base_fuel_gain": 4,
+      "tech_unlock": "quantum_core",
+      "defense": {
+        "light": 2,
+        "medium": 2,
+        "heavy": 2
+      }
+    },
+    {
+      "name": "Вортигон",
+      "type": "Разрушенная",
+      "base_metal_gain": 4,
+      "base_fuel_gain": 1,
+      "tech_unlock": null,
+      "defense": {
+        "light": 6,
+        "medium": 0,
+        "heavy": 0
+      }
+    },
+    {
+      "name": "Селестия",
+      "type": "Цветущая",
+      "base_metal_gain": 1,
+      "base_fuel_gain": 2,
+      "tech_unlock": "bio_reactor",
+      "defense": {
+        "light": 1,
+        "medium": 1,
+        "heavy": 1
+      }
+    },
+    {
+      "name": "Кризис",
+      "type": "Тёмная",
+      "base_metal_gain": 2,
+      "base_fuel_gain": 2,
+      "tech_unlock": "stealth_tech",
+      "defense": {
+        "light": 3,
+        "medium": 2,
+        "heavy": 1
+      }
+    },
+    {
+      "name": "Феникс",
+      "type": "Пепельная",
+      "base_metal_gain": 3,
+      "base_fuel_gain": 1,
+      "tech_unlock": null,
+      "defense": {
+        "light": 5,
+        "medium": 1,
+        "heavy": 0
+      }
+    },
+    {
+      "name": "Этерия",
+      "type": "Энергетическая",
+      "base_metal_gain": 1,
+      "base_fuel_gain": 3,
+      "tech_unlock": "advanced_engine",
+      "defense": {
+        "light": 2,
+        "medium": 2,
+        "heavy": 3
+      }
+    }
+  ]
+}
